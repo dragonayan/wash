@@ -1,0 +1,18 @@
+.about {
+    position: center;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+
+.container{
+    position: center;
+}
+.heading{
+    margin-right: 5vh;
+}
+.heading:hover{
+    background-color: white;
+    width:70vh;
+    transition-duration: 2s;
+}

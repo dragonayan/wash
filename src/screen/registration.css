@@ -1,0 +1,15 @@
+.authentication {
+    width: 60vh;
+    background-color: rgb(45, 27, 67);
+    margin-left: 30%;
+    margin-top: 10%;
+    border: 5px solid black;
+}
+
+.authentication-form {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
+}
+
+.hi {
+    color: wheat
+}

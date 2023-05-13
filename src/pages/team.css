@@ -1,0 +1,65 @@
+.team {
+    color: white;
+    margin-top: 5vh;
+    width: 200px;
+    margin-left: 40%;
+}
+
+.team:hover {
+    background-color: white;
+    color: black;
+    width: 300px;
+    height: 5vh;
+    transition-duration: 2s;
+
+}
+.card1{
+    background-color: black;
+    color: white;
+    display:   inline-block;
+    padding: 10px;
+    margin-left: 9vh;
+    height: 40vh;
+    width: 40vh;
+    
+}
+.card2{
+    background-color: black;
+    color: white;
+    display:   inline-block;
+    padding: 10px;
+    margin-left: 9vh;
+    height: 40vh;
+    width: 40vh;
+
+}
+.card1:hover{
+    background-color:rgb(79, 82, 50);
+    color: white;
+    display:   inline-block;
+    padding: 20px;
+    margin-left: 9vh;
+    margin-bottom: 15px;
+    height: 40vh;
+    width: 40vh;
+    transition-duration: 0.5s;
+    border-radius: 20%;
+
+}
+.card2:hover{
+    background-color: rgb(79, 82, 50);
+    color: white;
+    display:   inline-block;
+    padding: 20px;
+    margin-left: 9vh;
+    margin-top: 15px;
+    height: 40vh;
+    width: 40vh;
+    position: relative;
+    transition-duration: 0.5s;
+    border-radius: 20%;
+
+}
+p{
+    position: center;
+}

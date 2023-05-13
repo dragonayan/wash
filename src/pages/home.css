@@ -1,0 +1,7 @@
+.cover {
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://res.cloudinary.com/dnqwdjgnu/image/upload/v1683910141/washing_h2gfmv.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
